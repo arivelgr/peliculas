@@ -1,0 +1,18 @@
+body
+{
+    background-color: rgb(221, 253, 226) ;
+}
+
+#titulo{
+    color: rgb(151, 28, 19);
+    font-size: 4em;
+    font-family:"Arial";
+    text-align:left;
+}
+
+#titul{
+    color:rgb(151, 28, 19);
+    font-size: 4em;
+    font-family:"Arial";
+    text-align:left;
+}
